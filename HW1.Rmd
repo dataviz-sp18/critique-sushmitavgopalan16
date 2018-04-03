@@ -1,0 +1,17 @@
+---
+title: "Assignment 1"
+author: "Sushmita V Gopalan"
+date: "4/3/2018"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Part 1: Visualization Critique
+
+<div style="width:300px; height:6000px">
+![Image](minard_image.jpeg)
+</div>
+
